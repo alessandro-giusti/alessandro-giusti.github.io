@@ -89,7 +89,7 @@ Motion blur often affects the ball image in photographs and video frames in many
 }
 ```
 
-### Estimation of 3D Instantaneous Motion of a Ball from a Single Motion-Blurred Image
+## Estimation of 3D Instantaneous Motion of a Ball from a Single Motion-Blurred Image
 
 Giacomo Boracchi, Vincenzo Caglioti, Alessandro Giusti
 
@@ -115,7 +115,7 @@ The algorithm is validated with experiments on both synthetic and camera images.
 }
 ```
 
-### Isolating Motion and Color in a Motion Blurred Image
+## Isolating Motion and Color in a Motion Blurred Image
 
 Alessandro Giusti, Vincenzo Caglioti
 
@@ -156,7 +156,7 @@ enhancement.
 }
 ```
 
-### Basic Video-Surveillance with Low Computational and Power Requirements Using Long-Exposure Frames
+## Basic Video-Surveillance with Low Computational and Power Requirements Using Long-Exposure Frames
 
 Vincenzo Caglioti, Alessandro Giusti
 
