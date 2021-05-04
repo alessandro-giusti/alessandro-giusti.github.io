@@ -2,6 +2,7 @@
 permalink: /research/biomedical_image_analysis/
 title: Research in Biomedical Image Analysis at IDSIA
 published: true
+toc: true
 ---
 
 ## Mitosis Detection in Breast Cancer Histology Images using Deep Neural Networks
