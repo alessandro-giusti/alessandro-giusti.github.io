@@ -12,6 +12,8 @@ IEEE Transactions on Visualization and Computer Graphics, 2011. **Honorable Ment
 ## Abstract
 As microscopes have a very shallow depth of field, Z-stacks (i.e. sets of images shot at different focal planes) are often acquired to fully capture a thick sample. Such stacks are viewed by users by navigating them through the mouse wheel. We propose a new technique of visualizing 3D point, line or area markers in such focus stacks, by displaying them with a depth-dependent defocus, simulating the microscope's optics; this leverages on the microscopists' ability to continuously twiddle focus, while implicitly performing a shape-from-focus reconstruction of the 3D structure of the sample. User studies confirm that the approach is effective, and can complement more traditional techniques such as color-based cues. We provide two implementations, one of which computes defocus in real time on the GPU, and examples of their application.
 
+{% include figure image_path="/assets/images/research/2011-vis-teaser.png" %}
+
 ## Paper
 * [IEEE Xplore](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6064938).
 * [Preprint](http://www.idsia.ch/~giusti/papers/2011/vis.pdf).

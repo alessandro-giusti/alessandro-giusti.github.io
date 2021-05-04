@@ -8,8 +8,7 @@ toc: true
 This page discusses several papers related to the analysis of motion blurred images (i.e. my PhD thesis work).
 
 ## On the Apparent Transparency of a Motion Blurred Object: extracting information from blurred smears
-Vincenzo Caglioti, Alessandro Giusti
-
+Vincenzo Caglioti, Alessandro Giusti  
 International Journal on Computer Vision, 2010
 
 ### Abstract
@@ -62,8 +61,7 @@ motion, and improvements of alpha matting techniques.
 ```
 
 ## Recovering ball motion from a single motion-blurred image
-Vincenzo Caglioti, Alessandro Giusti
-
+Vincenzo Caglioti, Alessandro Giusti  
 Computer Vision and Image Understanding, 2008
 
 ### Abstract
@@ -90,9 +88,7 @@ Motion blur often affects the ball image in photographs and video frames in many
 ```
 
 ## Estimation of 3D Instantaneous Motion of a Ball from a Single Motion-Blurred Image
-
-Giacomo Boracchi, Vincenzo Caglioti, Alessandro Giusti
-
+Giacomo Boracchi, Vincenzo Caglioti, Alessandro Giusti  
 Chapter in Book [Computer Vision and Computer Graphics. Theory and Applications](http://www.springerlink.com/content/v85168/?p=48c0c5e172b9495b9cde56bd29f133b8&pi=0), 2009
 
 ### Abstract
@@ -116,9 +112,7 @@ The algorithm is validated with experiments on both synthetic and camera images.
 ```
 
 ## Isolating Motion and Color in a Motion Blurred Image
-
-Alessandro Giusti, Vincenzo Caglioti
-
+Alessandro Giusti, Vincenzo Caglioti  
 BMVC 2007
 
 ### Abstract
@@ -157,9 +151,7 @@ enhancement.
 ```
 
 ## Basic Video-Surveillance with Low Computational and Power Requirements Using Long-Exposure Frames
-
-Vincenzo Caglioti, Alessandro Giusti
-
+Vincenzo Caglioti, Alessandro Giusti  
 ACIVS 2008
 
 ### Abstract

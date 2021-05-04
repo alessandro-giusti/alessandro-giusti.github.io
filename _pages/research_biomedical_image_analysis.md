@@ -10,6 +10,8 @@ Joint work with Dr. Dan Ciresan.
 * Our research was featured in the widely popular [two minute papers](https://www.youtube.com/watch?v=Bui3DWs02h4) youtube channel!
 * The Medical Image Analysis paper describing the MICCAI 2013 Grand Challenge "Assessment of Mitosis Detection Algorithms" is available [here](https://pubmed.ncbi.nlm.nih.gov/25547073/).  With Dan Ciresan, we won that challenge with a significant advantage over the closest competitor; we also won the ICPR 2012 challenge on mitosis detection in breast cancer histology images.  The paper describing the approach was published at MICCAI 2013.
 
+{% include figure image_path="/assets/images/research/biomed-mitosis.jpg" %}
+
 ### Related publications
 * A. Giusti, C. Caccia, D. Ciresan, J. Schmidhuber, L. Gambardella: “A Comparison of Algorithms and Humans for Mitosis Detection”. Proc. of International Symposium on Biomedical Imaging (ISBI) 2014. **oral presentation**.
 * D. Ciresan, A. Giusti, L. Gambardella, J. Schmidhuber: “Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks”. Proc. of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2013. **Describing our winning entry to ICPR 2012 Mitosis Detection competition**. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24579167)
@@ -56,6 +58,8 @@ Joint work with Dr. Dan Ciresan.
 ## Segmentation of Neural Structures from Electron Microscopy Stacks using Deep Neural Networks
 Joint work with Dr. Dan Ciresan and other colleagues at MIT, Janelia Farm, and ETH.
 * We won (by a large margin) the ISBI 2012 [challenge](http://brainiac2.mit.edu/isbi_challenge/content/isbi-2012-workshop-results) on segmentation of neuronal structures in electron microscopy stacks. Our entry outperforms all the 16 competing methods on each of the three considered metrics.  In addition, we are the only entry outperforming humans in the pixel error metric.  We published our approach at NIPS 2012.
+
+{% include figure image_path="/assets/images/research/biomed-neurons.jpg" %}
 
 ### Related publications
 * D. Ciresan, A. Giusti, L. Gambardella, J. Schmidthuber: “Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images”. Proc. of International Conference on Neural Information Processing Systems (NIPS) 2012 (**acceptance rate ~25%**).
@@ -110,6 +114,7 @@ Joint work with [Giorgio Corani(http://www.idsia.ch/~giorgio) and the [Internati
 We worked on the segmentation of zygotes (1 cell, shortly after fertilization), and embryos up to 4 cells, from Hoffmann Modulation Contrast (HMC) focus stacks.  It is a mostly unexplored and challenging imaging modality from the point of view of automated processing; focus stacks are also an unusual and interesting type of data.  Giorgio has focused on the statistical modeling of the embryo selection problem.
 
 ### Zygote Segmentation and 3D Reconstruction
+{% include figure image_path="/assets/images/research/biomed-zygote.png" %}
 
 #### Related publications
 * A. Giusti, G. Corani, L. Gambardella, C. Magli, L. Gianaroli: “3D Localization of Pronuclei of Human Zygotes using Texture Features from Multiple Focal Planes”. Proc. of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2010.
@@ -161,6 +166,8 @@ limitations of our approach, also briefly describing it is being
 integrated in the workflow of an IVF laboratory.
 
 Practical application of these techniques prompted the implementation of a tool for the [Visualization of Markers in Microscopy Z-Stacks](research/zstackvis/).
+
+{% include figure image_path="/assets/images/research/biomed-embryo.png" %}
 
 #### Related Publications
 * A. Giusti, G. Corani, L. Gambardella, C. Magli, L. Gianaroli: “Blastomere Segmentation and 3D Morphology Measurements of Early Embryos from Hoffman Modulation Contrast Image Stacks”. Proc of IEEE International Symposium on Biomedical Imaging (ISBI) 2010.
