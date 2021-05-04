@@ -6,13 +6,13 @@ published: true
 
 ## Mitosis Detection in Breast Cancer Histology Images using Deep Neural Networks
 Joint work with Dr. Dan Ciresan.
-* Our research was featured in the widely popular [[https://www.youtube.com/watch?v=Bui3DWs02h4|two minute papers]] youtube channel!
-* The Medical Image Analysis paper describing the MICCAI 2013 Grand Challenge "[[http://amida13.isi.uu.nl/|Assessment of Mitosis Detection Algorithms]]" is available [here](https://pubmed.ncbi.nlm.nih.gov/25547073/).  With Dan Ciresan, we won that challenge with a significant advantage over the closest competitor; we also won the ICPR 2012 challenge on mitosis detection in breast cancer histology images.  The paper describing the approach was published at MICCAI 2013.
+* Our research was featured in the widely popular [two minute papers](https://www.youtube.com/watch?v=Bui3DWs02h4) youtube channel!
+* The Medical Image Analysis paper describing the MICCAI 2013 Grand Challenge "Assessment of Mitosis Detection Algorithms" is available [here](https://pubmed.ncbi.nlm.nih.gov/25547073/).  With Dan Ciresan, we won that challenge with a significant advantage over the closest competitor; we also won the ICPR 2012 challenge on mitosis detection in breast cancer histology images.  The paper describing the approach was published at MICCAI 2013.
 
 ### Related publications
-* A. Giusti, C. Caccia, D. Ciresan, J. Schmidhuber, L. Gambardella: “A Comparison of Algorithms and Humans for Mitosis Detection”. Proc. of International Symposium on Biomedical Imaging (ISBI) 2014. **oral presentation**. ([[http://www.idsia.ch/~ciresan/data/isbi2014.pdf|preprint]], [[http://bit.ly/YUYQFG|take the test]])
-* D. Ciresan, A. Giusti, L. Gambardella, J. Schmidhuber: “Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks”. Proc. of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2013. **Describing our winning entry to ICPR 2012 Mitosis Detection competition**. ([[http://www.idsia.ch/~ciresan/data/miccai2013.pdf|preprint]], [[http://www.ncbi.nlm.nih.gov/pubmed/24579167|pubmed]])
-* M. Veta et al.: "Assessment of algorithms for mitosis detection in breast cancer histopathology images". Medical Image Analysis (accepted). ([[http://arxiv.org/pdf/1411.5825v1.pdf|preprint]], [[http://www.ncbi.nlm.nih.gov/pubmed/25547073|pubmed]], [[http://arxiv.org/abs/1411.5825|arxiv]]).
+* A. Giusti, C. Caccia, D. Ciresan, J. Schmidhuber, L. Gambardella: “A Comparison of Algorithms and Humans for Mitosis Detection”. Proc. of International Symposium on Biomedical Imaging (ISBI) 2014. **oral presentation**.
+* D. Ciresan, A. Giusti, L. Gambardella, J. Schmidhuber: “Mitosis Detection in Breast Cancer Histology Images with Deep Neural Networks”. Proc. of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2013. **Describing our winning entry to ICPR 2012 Mitosis Detection competition**. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24579167)
+* M. Veta et al.: "Assessment of algorithms for mitosis detection in breast cancer histopathology images". Medical Image Analysis. ([preprint](http://arxiv.org/pdf/1411.5825v1.pdf), [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25547073), [arxiv](http://arxiv.org/abs/1411.5825)).
 * M. Veta, P. J. van Diest, D. Ciresan, A. Giusti, J. Pluim: “Prognostic value of automatic mitosis detection in breast cancer histopathology images”. Proc. of International Symposium on Biomedical Imaging (ISBI) 2015. (abstract).
 
 
@@ -60,7 +60,7 @@ Joint work with Dr. Dan Ciresan and other colleagues at MIT, Janelia Farm, and E
 * D. Ciresan, A. Giusti, L. Gambardella, J. Schmidthuber: “Deep Neural Networks Segment Neuronal Membranes in Electron Microscopy Images”. Proc. of International Conference on Neural Information Processing Systems (NIPS) 2012 (**acceptance rate ~25%**).
 * T. Parag, D. Ciresan, A. Giusti: “Efficient Classifier Training to Reduce False Merges in Electron Microscopy Segmentation”. Proc. of International Conference on Computer Vision (ICCV) 2015
 * I. Arganda-Carreras et al.: "Crowdsourcing the creation of image segmentation algorithms for connectomics".
-Frontiers in Neuroanatomy 2015. ([[http://dx.doi.org/10.3389/fnana.2015.00142|DOI Link]])
+Frontiers in Neuroanatomy 2015. ([DOI](http://dx.doi.org/10.3389/fnana.2015.00142))
 * J. Funke, et al.: “Candidate Sampling for Neuron Reconstruction from Anisotropic Electron Microscopy Volumes”. Proc. of International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2014
 * D. Ciresan, A. Giusti, L. Gambardella, J. Schmidthuber: “Neural Networks for Segmenting Neuronal Structures in EM Stacks”. **Describing our winning entry (in all three metrics) for ISBI 2012 competition “Segmentation of neuronal structures in EM stacks”**, Workshop at International Symposium on Biomedical Imaging (ISBI) 2012.
 
@@ -159,7 +159,7 @@ images acquired by means of an Hoffman Modulation Contrast (HMC) microscope.  We
 limitations of our approach, also briefly describing it is being
 integrated in the workflow of an IVF laboratory.
 
-Practical application of these techniques prompted the implementation of a tool for the [[wiki:zstackvis|Visualization of Markers in Microscopy Z-Stacks]].
+Practical application of these techniques prompted the implementation of a tool for the [Visualization of Markers in Microscopy Z-Stacks](research/zstackvis/).
 
 #### Related Publications
 * A. Giusti, G. Corani, L. Gambardella, C. Magli, L. Gianaroli: “Blastomere Segmentation and 3D Morphology Measurements of Early Embryos from Hoffman Modulation Contrast Image Stacks”. Proc of IEEE International Symposium on Biomedical Imaging (ISBI) 2010.
@@ -194,7 +194,7 @@ Publications (more details at Giorgio Corani's [website](http://www.idsia.ch/~gi
 * G. Corani, C. Magli, A. Giusti, L. Gianaroli, L. Gambardella: “A Bayesian Network Model for Predicting the Outcome of In Vitro Fertilization”. Proc. of European Workshop on Probabilistic Graphical Models (PGM), 2012 (**acceptance rate ~45%**).
 
 ## Novel Statistical Methods for Analyzing Images of Fibre-like Structures
-Joint work with [[https://sites.google.com/site/rancoitapaola/|Paola Rancoita]].
+Joint work with [Paola Rancoita](https://sites.google.com/site/rancoitapaola/).
 * A. Giusti, P. Rancoita: “Quantifying Challenging Images of Fiber-Like Structures” Proc. of IEEE International Conference on Image Processing (ICIP) 2013
 * P. Rancoita, A. Giusti: “On Estimating the Intensity of Stationary Fibre Processes from Real Digital Images” Oral presentation at European Congress of Stereology and Image Analysis, 2013
 * P.M.V. Rancoita, A. Giusti, A. Micheletti: “Intensity estimation of stationary fibre processes from digital images with a learned detector”. Image Analysis and Stereology 30(3):167-178, 2011.
