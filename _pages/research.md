@@ -8,6 +8,7 @@ published: true
 - A page describing my research on [biomedical image analysis at IDSIA](/research/biomedical_image_analysis/).
 
 Older work:
-- A page on [visualization of focus-stacks](/research/zstackvis/) (best paper award runnerup at IEEE VIS 2011).
-- A page on [summarizing motion in videos using illustrative speedlines](/research/speedlines/) (best paper award at ISVC 2009).
+- [Visualization of focus-stacks](/research/zstackvis/) (best paper award runnerup at IEEE VIS 2011).
+- [Summarizing motion in videos using illustrative speedlines](/research/speedlines/) (best paper award at ISVC 2009).
+- [Analysis and re-animation of motion blurred images](/research/blur/) (my PhD work, 2006-2009).
 - [Decentralized wakeup scattering in Wireless Sensor Networks](https://es-static.fbk.eu/people/murphy/scattering/people.html) (2008).
