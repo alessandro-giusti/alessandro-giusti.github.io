@@ -167,7 +167,7 @@ integrated in the workflow of an IVF laboratory.
 
 Practical application of these techniques prompted the implementation of a tool for the [Visualization of Markers in Microscopy Z-Stacks](research/zstackvis/).
 
-{% include figure image_path="/assets/images/research/biomed-embryo.png" %}
+![](/assets/images/research/biomed-embryo.png){:width="50%"}
 
 #### Related Publications
 * A. Giusti, G. Corani, L. Gambardella, C. Magli, L. Gianaroli: “Blastomere Segmentation and 3D Morphology Measurements of Early Embryos from Hoffman Modulation Contrast Image Stacks”. Proc of IEEE International Symposium on Biomedical Imaging (ISBI) 2010.
