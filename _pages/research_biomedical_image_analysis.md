@@ -53,7 +53,7 @@ Joint work with Dr. Dan Ciresan.
 }
 ```
 
-## Segmentation of Neural Structures from Electron Microscopy Stacks using Deep Neural Networks =====
+## Segmentation of Neural Structures from Electron Microscopy Stacks using Deep Neural Networks
 Joint work with Dr. Dan Ciresan and other colleagues at MIT, Janelia Farm, and ETH.
 * We won (by a large margin) the ISBI 2012 [challenge](http://brainiac2.mit.edu/isbi_challenge/content/isbi-2012-workshop-results) on segmentation of neuronal structures in electron microscopy stacks. Our entry outperforms all the 16 competing methods on each of the three considered metrics.  In addition, we are the only entry outperforming humans in the pixel error metric.  We published our approach at NIPS 2012.
 
@@ -201,7 +201,7 @@ Joint work with [Paola Rancoita](https://sites.google.com/site/rancoitapaola/).
 * P.M.V. Rancoita, A. Giusti, A. Micheletti: “Intensity estimation of stationary fibre processes from digital images with a learned detector”. Image Analysis and Stereology 30(3):167-178, 2011.
 * P.M.V. Rancoita, A. Giusti, A. Micheletti: “A General Technique for the Estimation of the Intensity of Stationary Fibre Processes from Digital Images using a Learned Detector”. Proc. of Shape and Size in Medicine, Biotechnology, Materials Science and Social Sciences, abstract, 2011.
 
-### Other work
+## Segmentation of micro-CT volumes
 
-With Anderson Meneses, on the segmentation of micro-CT volumes.
+Joint work with Dr. Anderson Meneses
 * A. Meneses, A. Giusti, A. de Almeida, L. Nogueira, D. Braz, R. Barroso, C. de Almeida: “Automated Segmentation of Synchrotron Radiation Micro-Computed Tomography Biomedical Images using Graph Cuts and Neural Networks”. Nuclear Instruments and Methods in Physics Research, 2011.
