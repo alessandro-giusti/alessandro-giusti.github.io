@@ -9,7 +9,7 @@ classes: wide
 
 ### About
 
-I work at the [Dalle Molle Institute for Artificial Intelligence](https://www.idsia.ch) (IDSIA, [USI](https://www.usi.ch)-[SUPSI](https://www.supsi.ch)) in Lugano (Switzerland), where I lead the [autonomous robotics research area](https://idsia-robotics.github.io) and supervise or co-supervise a team of about 10 researchers and PhD students.
+I work at the [Dalle Molle Institute for Artificial Intelligence](https://www.idsia.ch) (IDSIA) a joint institute of [USI](https://www.usi.ch) and [SUPSI](https://www.supsi.ch) in Lugano (Switzerland), where I lead the [autonomous robotics research area](https://idsia-robotics.github.io) and supervise or co-supervise a team of about 10 researchers and PhD students.
 
 Since 2017, I have been the PI or co-lead of 15+ research projects for a total own budget above 4M CHF.  
 
@@ -40,3 +40,16 @@ I teach university courses at the [Swiss Master of Science in Engineering](https
 ### Creative computing
 
 I occasionally enjoy developing small personal creative computing projects for fun, such as [this](https://nbviewer.org/github/alessandro-giusti/bouncing-ball-patterns/blob/main/bouncing.ipynb), which was covered by [kottke.org](https://also.kottke.org/22/01/randomly-bouncing-balls-arrange-themselves-into-satisfying-patterns) and [neatorama](https://www.neatorama.com/2022/01/17/Balls-Bounce-into-Beautiful-Patterns/). 
+
+### Contact
+
+Email me at `alessandro.giusti@idsia.ch`
+
+Postal address:
+```
+Alessandro Giusti
+Dalle Molle Institute for Artificial Intelligence
+Via la Santa 1,
+6962 Viganello,
+Switzerland
+```
