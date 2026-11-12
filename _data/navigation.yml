@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: https://scholar.google.com/citations?user=7wj5gXgAAAAJ
   - title: "Contacts"
